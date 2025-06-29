@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+My name is Angelique Mushimiyimana, and I am a passionate learner in software engineering. I am currently studying networking and working on various projects as part of my journey.
+
+I love solving problems using code and collaborating with others to build meaningful solutions. My dream is to contribute to open-source and work on impactful tech projects globally.
